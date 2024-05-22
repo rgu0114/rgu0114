@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+software engineer studying cs @ cornell
+software engineer intern @ niantic
+technical product manager @ cornell dti
+founding eng @ stealth startup
+
 <!--
 **rgu0114/rgu0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
