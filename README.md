@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 co-founder & cto @ inception tech (yc w25) <br/>
-software engineer studying cs @ cornell <br/>
+cs @ cornell <br/>
 software engineer intern @ niantic <br/>
 technical product manager @ cornell dti <br/>
 
