@@ -2,8 +2,8 @@
 
 co-founder & cto @ inception tech (yc w25) <br/>
 cs @ cornell <br/>
-software engineer intern @ niantic <br/>
-technical product manager @ cornell dti <br/>
+prev. swe @ niantic <br/>
+prev. technical product manager @ cornell dti <br/>
 
 <!--
 **rgu0114/rgu0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
