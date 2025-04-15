@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-co-founder & cto @ inception tech (yc w25) <br/>
+co-founder & cto @ nitrode (yc w25) <br/>
 cs @ cornell <br/>
 prev. swe @ niantic <br/>
 prev. technical product manager @ cornell dti <br/>
